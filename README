@@ -1,5 +1,7 @@
+```
 cmake -B . build
 cmake --build build
+```
 
 The above commands create an executable gddr in build folder.
 Execute ./gddr produces a list of strides to latencies.
